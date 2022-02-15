@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: hp
+Build-Jdk: 15.0.1
+Implementation-Title: JUNIT5-SpringBoot
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.mkyong.spring
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/JUNIT5-SpringBoot
+Created-By: Maven Integration for Eclipse
+
